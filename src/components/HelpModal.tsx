@@ -31,7 +31,7 @@ export default function HelpModal(props: ModalProps) {
         <h3>Feedback</h3>
         <p>
           If you have any feedback, please create a{" "}
-          <a href="https://github.com/aongaro/fab-eco-proxy/issues">
+          <a href="https://github.com/bigfleet/fab-eco-proxy/issues">
             github issue
           </a>
           , and I will try to respond within a reasonable time.
