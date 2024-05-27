@@ -2,7 +2,7 @@
   "name": "fab-eco-proxy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fab-eco-proxy.herokuapp.com/",
+  "homepage": "https://eco-proxy.fabclt.us/",
   "dependencies": {
     "@babel/core": "^7.16.0",
     "@flesh-and-blood/cards": "^2.1.2",
