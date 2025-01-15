@@ -5,9 +5,9 @@
   "homepage": "https://eco-proxy.fabclt.us/",
   "dependencies": {
     "@babel/core": "^7.16.0",
-    "@flesh-and-blood/cards": "^3.4.9",
-    "@flesh-and-blood/search": "^3.4.9",
-    "@flesh-and-blood/types": "^3.4.3",
+    "@flesh-and-blood/cards": "^3.4.26",
+    "@flesh-and-blood/search": "^3.4.26",
+    "@flesh-and-blood/types": "^3.4.26",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
     "@svgr/webpack": "^5.5.0",
     "@testing-library/jest-dom": "^5.14.1",
@@ -70,7 +70,7 @@
     "terser-webpack-plugin": "^5.2.5",
     "typescript": "^4.4.2",
     "web-vitals": "^2.1.0",
-    "webpack": "^5.64.4",
+    "webpack": "^5.97.1",
     "webpack-dev-server": "^4.6.0",
     "webpack-manifest-plugin": "^4.0.2",
     "workbox-webpack-plugin": "^6.4.1"
