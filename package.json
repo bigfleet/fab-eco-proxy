@@ -9,7 +9,7 @@
     "@flesh-and-blood/search": "^3.4.26",
     "@flesh-and-blood/types": "^3.4.26",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
-    "@svgr/webpack": "^5.5.0",
+    "@svgr/webpack": "^8.1.0",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
@@ -61,7 +61,7 @@
     "react-toastify": "^9.1.1",
     "remark-gfm": "^3.0.1",
     "resolve": "^1.20.0",
-    "resolve-url-loader": "^4.0.0",
+    "resolve-url-loader": "^5.0.0",
     "sass-loader": "^12.3.0",
     "semver": "^7.3.5",
     "source-map-loader": "^3.0.0",
@@ -76,8 +76,8 @@
     "workbox-webpack-plugin": "^6.4.1"
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0",
-    "@babel/plugin-transform-private-property-in-object": "^7.25.9"
+    "@babel/plugin-transform-private-property-in-object": "^7.25.9",
+    "gh-pages": "^5.0.0"
   },
   "scripts": {
     "start": "node scripts/start.js",
