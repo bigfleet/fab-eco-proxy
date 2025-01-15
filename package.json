@@ -76,7 +76,8 @@
     "workbox-webpack-plugin": "^6.4.1"
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "@babel/plugin-transform-private-property-in-object": "^7.25.9"
   },
   "scripts": {
     "start": "node scripts/start.js",
