@@ -5,7 +5,7 @@
   "homepage": "https://eco-proxy.fabclt.us/",
   "dependencies": {
     "@babel/core": "^7.16.0",
-    "@flesh-and-blood/cards": "^3.4.52",
+    "@flesh-and-blood/cards": "^3.4.53",
     "@flesh-and-blood/search": "^3.4.26",
     "@flesh-and-blood/types": "^3.4.26",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
